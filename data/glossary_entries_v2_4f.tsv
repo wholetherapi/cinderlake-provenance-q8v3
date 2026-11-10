@@ -1,0 +1,3 @@
+gl-0001	summarization	concise restatement of a passage	nlp
+gl-0002	normalization	conversion of text to a canonical form	preprocessing
+gl-0003	attention	weighted aggregation of representations	modeling
