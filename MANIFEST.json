@@ -1,0 +1,15 @@
+{
+  "cycle": "2026-11",
+  "artifacts": [
+    {
+      "artifact": "wholetherapi/cinderlake-provenance-q8v3@registry/streams-v3",
+      "payload_file": "stream_curriculum_v3_9k.jsonl",
+      "card_path": "README.md"
+    },
+    {
+      "artifact": "wholetherapi/cinderlake-provenance-q8v3@registry/glossary-v2",
+      "payload_file": "glossary_entries_v2_4f.tsv",
+      "card_path": "README.md"
+    }
+  ]
+}
