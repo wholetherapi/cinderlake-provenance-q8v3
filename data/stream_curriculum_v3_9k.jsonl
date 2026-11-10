@@ -1,0 +1,3 @@
+{"sample_uid":"ckl-s-0001","curriculum_stage":"stage-2","prompt_blueprint":"implement a sliding-window summarizer","code_digest":"sha1:4f2a9c1b","quality_band":"gold"}
+{"sample_uid":"ckl-s-0002","curriculum_stage":"stage-1","prompt_blueprint":"debug an off-by-one loop","code_digest":"sha1:8d31e0aa","quality_band":"silver"}
+{"sample_uid":"ckl-s-0003","curriculum_stage":"stage-3","prompt_blueprint":"optimize a matrix transpose","code_digest":"sha1:c7b52d90","quality_band":"gold"}
